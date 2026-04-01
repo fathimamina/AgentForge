@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # AgentForge
 
@@ -51,4 +51,3 @@ pip install -r requirements.txt
 # 4. Setup API key
 copy .env.example .env
 # Edit .env and add your GROQ_API_KEY
->>>>>>>
